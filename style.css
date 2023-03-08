@@ -1,0 +1,20 @@
+.bg-img1 {
+    background-color: #000;
+    background-size: cover;
+    background-image: url(wallpaper1.jpg);
+}
+
+.bg-img2 {
+    background-color: #000;
+    background-size: cover;
+    background-image: url(wallpaper2.jpg);
+}
+
+.bg-img2 {
+    background-color: #000;
+    background-size: cover;
+    background-image: url(wallpaper3.jpg);
+}
+img {
+    width: 100%;
+}
